@@ -1,0 +1,8 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - snowflake-ml-python=*
+  - plotly=*
+  - matplotlib=*
+  - seaborn=*
